@@ -266,8 +266,7 @@ input[type="number"] {
 }
 .footer {
     margin-bottom: 22px;
-    position: fixed;
-    bottom: 0;
+
     left: 5vw;
     height: 6.98vh;
     width: 90vw;
